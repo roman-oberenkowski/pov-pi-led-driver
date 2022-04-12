@@ -17,8 +17,8 @@ Following commands will compile and run LED driver. Resulting binary requires hi
 - Run with `sudo ./leddrvexec`
 
 # Pics
-<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/pov_stationary.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/pov_test_pattern.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/schema.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/pov_stationary.png" style="float: left; width: 75%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/pov_test_pattern.jpg" style="float: left; width: 75%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/roman-oberenkowski/pov-pi-led-driver/blob/ef2c6b48a703369f2ec867f1d18f1d5e3fc95101/readme_resources/schema.png" style="float: left; width: 75%; margin-right: 1%; margin-bottom: 0.5em;">
   
 <p style="clear: both;">
